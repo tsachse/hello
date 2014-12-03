@@ -14,5 +14,5 @@ Per Kommando kann man mit *git config http.sslVerify* false doe SSL Prüfung fü
 mit *git config --global http.sslVerify false* generell abschalten. Allerdings ist das aus Blickwinkel
 der Sicherheit schon bedenklich.
 
-
+Siehe http://stackoverflow.com/questions/3777075/ssl-certificate-rejected-trying-to-access-github-over-https-behind-firewall
 
