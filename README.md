@@ -4,7 +4,8 @@ hello
 Mein Testrepo.
 
 
-=== Anmerkungen zu SSL Verfiy
+Anmerkungen zu SSL Verfiy
+--------------------------
 
 export GIT_SSL_NO_VERIFY=true hilft beim Zugriff hintem Proxy.
 
